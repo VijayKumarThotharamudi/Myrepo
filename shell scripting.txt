@@ -1,1 +1,0 @@
-https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora33-riscv.cfg&mem=256   am unable clone this into my own machine
